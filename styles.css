@@ -6,3 +6,7 @@ thead, tbody {
   border: 2px;
   text-allign: center;
 }
+.code   {
+  background-color: white;
+  font-weight: bold;
+}
