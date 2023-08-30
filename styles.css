@@ -2,3 +2,7 @@ body {
 background-color: gainsboro;
   
 }
+thead, tbody {
+  border: 2px;
+  text-allign: center;
+}
