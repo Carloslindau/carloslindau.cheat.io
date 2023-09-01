@@ -10,3 +10,6 @@ thead, tbody {
   background-color: white;
   font-weight: bold;
 }
+table {
+  border: 2px;  
+}
